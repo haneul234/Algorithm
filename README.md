@@ -1,6 +1,6 @@
 # Algorithm
 > Since 2022.08.30
-## 👨‍💻팀원
+## 👨‍💻스터디원
 <p>
 <a href="https://github.com/shyeon4643">
   <img src="https://avatars.githubusercontent.com/u/62410059?v=4" width="100">

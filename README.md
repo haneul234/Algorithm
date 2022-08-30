@@ -12,7 +12,7 @@
   <img src="https://avatars.githubusercontent.com/u/101186255?s=60&v=4" width="100">
 </a>
 <a href="https://github.com/hokyun-tazo">
-  <img src="https://avatars.githubusercontent.com/u/101186255?s=60&v=4" width="100">
+  <img src="https://avatars.githubusercontent.com/u/104821475?v=4" width="100">
 </a>
 </p>
 

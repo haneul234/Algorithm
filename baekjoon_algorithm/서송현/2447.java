@@ -23,7 +23,7 @@ public class Baekjoon_2447 {
     }
 }
 
-// => 시간 초과 발생
+=> 시간 초과 발생
 
 import java.util.*;
 import java.io.*;
@@ -51,7 +51,7 @@ public class Main {
     }
 }
 
-// => StringBuffer와 BufferedReader를 사용하여 입력받고 출력하는 시간을 줄여 시간초과 해결 
+=> StringBuffer와 BufferedReader를 사용하여 입력받고 출력하는 시간을 줄여 시간초과 해결 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------

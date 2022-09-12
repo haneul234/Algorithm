@@ -1,5 +1,5 @@
 
-~java
+~~~java
 import java.util.*;
 public class Baekjoon_2447 {
     public static void star(int i,int j,int n){
@@ -23,9 +23,9 @@ public class Baekjoon_2447 {
 
     }
 }
-~java
+~~~
 
-~java
+~~~java
 import java.util.*;
 import java.io.*;
 public class Main {
@@ -51,4 +51,4 @@ public class Main {
         System.out.println(sb.toString());
     }
 }
-~java
+~~~

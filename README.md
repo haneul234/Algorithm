@@ -1,5 +1,4 @@
 # Algorithm
-> Since 2022.08.30
 ## 👨‍💻스터디원
 <p>
 <a href="https://github.com/shyeon4643">
